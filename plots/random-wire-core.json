@@ -1,0 +1,123 @@
+{
+  "formula": "half-wave feet = 468 / MHz",
+  "max_ft": 135,
+  "padding_ft": 0,
+  "quarter_wave_guide_ft": 33.42857142857143,
+  "bands": [
+    {
+      "band_m": "40",
+      "low_mhz": 7.0,
+      "high_mhz": 7.2
+    },
+    {
+      "band_m": "30",
+      "low_mhz": 10.1,
+      "high_mhz": 10.15
+    },
+    {
+      "band_m": "20",
+      "low_mhz": 14.0,
+      "high_mhz": 14.35
+    }
+  ],
+  "halfwaves": [
+    {
+      "band_m": "40",
+      "multiple": 1,
+      "low_ft": 65.0,
+      "high_ft": 66.85714285714286,
+      "low_m": 19.812,
+      "high_m": 20.378057142857145,
+      "clipped_at_plot_limit": false
+    },
+    {
+      "band_m": "40",
+      "multiple": 2,
+      "low_ft": 130.0,
+      "high_ft": 133.71428571428572,
+      "low_m": 39.624,
+      "high_m": 40.75611428571429,
+      "clipped_at_plot_limit": false
+    },
+    {
+      "band_m": "30",
+      "multiple": 1,
+      "low_ft": 46.10837438423645,
+      "high_ft": 46.336633663366335,
+      "low_m": 14.053832512315271,
+      "high_m": 14.12340594059406,
+      "clipped_at_plot_limit": false
+    },
+    {
+      "band_m": "30",
+      "multiple": 2,
+      "low_ft": 92.2167487684729,
+      "high_ft": 92.67326732673267,
+      "low_m": 28.107665024630542,
+      "high_m": 28.24681188118812,
+      "clipped_at_plot_limit": false
+    },
+    {
+      "band_m": "20",
+      "multiple": 1,
+      "low_ft": 32.613240418118465,
+      "high_ft": 33.42857142857143,
+      "low_m": 9.940515679442509,
+      "high_m": 10.189028571428572,
+      "clipped_at_plot_limit": false
+    },
+    {
+      "band_m": "20",
+      "multiple": 2,
+      "low_ft": 65.22648083623693,
+      "high_ft": 66.85714285714286,
+      "low_m": 19.881031358885018,
+      "high_m": 20.378057142857145,
+      "clipped_at_plot_limit": false
+    },
+    {
+      "band_m": "20",
+      "multiple": 3,
+      "low_ft": 97.8397212543554,
+      "high_ft": 100.28571428571429,
+      "low_m": 29.821547038327527,
+      "high_m": 30.567085714285717,
+      "clipped_at_plot_limit": false
+    },
+    {
+      "band_m": "20",
+      "multiple": 4,
+      "low_ft": 130.45296167247386,
+      "high_ft": 133.71428571428572,
+      "low_m": 39.762062717770036,
+      "high_m": 40.75611428571429,
+      "clipped_at_plot_limit": false
+    }
+  ],
+  "unflagged_ranges_ft": [
+    [
+      33.42857142857143,
+      46.10837438423645
+    ],
+    [
+      46.336633663366335,
+      65.0
+    ],
+    [
+      66.85714285714286,
+      92.2167487684729
+    ],
+    [
+      92.67326732673267,
+      97.8397212543554
+    ],
+    [
+      100.28571428571429,
+      130.0
+    ],
+    [
+      133.71428571428572,
+      135
+    ]
+  ]
+}
